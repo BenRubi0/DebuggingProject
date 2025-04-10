@@ -1,0 +1,34 @@
+
+
+User 1 data:
+	Name: jimmy
+	Address:  123
+	Zipcode:  123
+	Phone number:  123123123
+	Birthday:  1/2/3
+
+User 2 data:
+	Name: 213
+	Address: 123
+	Zipcode: 321
+	Phone number: 321
+	Birthday: 123
+
+User 3 data:
+	Name: 123
+	Address: 123
+	Zipcode: 123
+	Phone number: 1233
+	Birthday: 123
+
+User 4 data:
+	Name: 123
+	Address: 1
+	Zipcode: 23
+	Phone number: 123
+	Birthday: 123
+
+User 5 data:
+	Name: asd
+	Address: ad
+	Zipcode: asd123
