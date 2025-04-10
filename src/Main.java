@@ -52,5 +52,9 @@ public class Main {
 
             DebuggingHelp.debugPrint("Looping!");
         }
+
+        DebuggingHelp.debugPrint("Running the string tokenizer project...");
+
+        StringTokenizerProject.run();
     }
 }
