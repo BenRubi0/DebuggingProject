@@ -56,5 +56,11 @@ public class Main {
         DebuggingHelp.debugPrint("Running the string tokenizer project...");
 
         StringTokenizerProject.run();
+
+        try {
+            inputScanner.close();
+        } catch (Exception e) {
+            DebuggingHelp.debugPrint("Failed to close inputScanner: " + e.getMessage());
+        }
     }
 }
